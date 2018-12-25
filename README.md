@@ -1,2 +1,3 @@
 # hello-world
-Analyze a few databases
+Analyze a few databases.
+Using simple Python Pandas and Matplotlib-Tools.
